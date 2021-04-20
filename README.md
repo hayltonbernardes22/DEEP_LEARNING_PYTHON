@@ -4,4 +4,3 @@
 (Inspirado em aulas de DEEP LEARNING & IA da Faculdade Fiap)
 
 
-
